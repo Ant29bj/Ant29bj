@@ -9,7 +9,7 @@ Currently focus on *web*📶 and 📱 *mobile* development.
 
 <h2>How to reach me :</h2>
 <div>
- <a href="bojorquez29an@gmail.com">
+ <a href="mailto:bojorquez29an@gmail.com">
   <img alt="Static Badge" src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=red&labelColor=white">
  </a>
 <a href="https://linkedin.com/in/bojorquez-dev" target="_blank">
