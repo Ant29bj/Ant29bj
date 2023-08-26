@@ -12,7 +12,7 @@ Currently focus on *web*📶 and 📱 *mobile* development.
  <a href="bojorquez29an@gmail.com">
   <img alt="Static Badge" src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=red&labelColor=white">
  </a>
-<a href="[htttps://linkedin.com/in/bojorquez-dev](https://www.linkedin.com/in/bojorquez-dev/)" target="_blank">
+<a href="https://linkedin.com/in/bojorquez-dev" target="_blank">
   <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=blue&labelColor=white">
  </a>
 </div>
