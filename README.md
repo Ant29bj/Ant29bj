@@ -21,8 +21,6 @@ I'm Antonio! a **Software Engineer student** looking for opportunity as a **Full
 <div>
  <img alt="Static Badge" src="https://img.shields.io/badge/Java-orange?style=for-the-badge&labelColor=orange">
  <img alt="Static Badge" src="https://img.shields.io/badge/Spring_boot-darkgreen?style=for-the-badge&labelColor=darkgreen">
- <img alt="Static Badge" src="https://img.shields.io/badge/c%23-blue?style=for-the-badge&labelColor=orange">
- <img alt="Static Badge" src="https://img.shields.io/badge/.NET-8A2Be2?style=for-the-badge&labelColor=orange">
  <img alt="Static Badge" src="https://img.shields.io/badge/dart-122031?style=for-the-badge&labelColor=orange">
  <img alt="Static Badge" src="https://img.shields.io/badge/flutter-2471d5?style=for-the-badge&labelColor=orange">
  <img alt="Static Badge" src="https://img.shields.io/badge/react-22272e?style=for-the-badge&labelColor=orange">
