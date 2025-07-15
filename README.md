@@ -21,17 +21,12 @@ I'm Antonio! a **Software Engineer student** looking for opportunity as a **Full
 <div>
  <img alt="Static Badge" src="https://img.shields.io/badge/Java-orange?style=for-the-badge&labelColor=orange">
  <img alt="Static Badge" src="https://img.shields.io/badge/Spring_boot-darkgreen?style=for-the-badge&labelColor=darkgreen">
- <img alt="Static Badge" src="https://img.shields.io/badge/dart-122031?style=for-the-badge&labelColor=orange">
- <img alt="Static Badge" src="https://img.shields.io/badge/flutter-2471d5?style=for-the-badge&labelColor=orange">
  <img alt="Static Badge" src="https://img.shields.io/badge/react-22272e?style=for-the-badge&labelColor=orange">
  <img alt="Static Badge" src="https://img.shields.io/badge/tailwind-39bdf9?style=for-the-badge&labelColor=orange">
- <img alt="Static Badge" src="https://img.shields.io/badge/angular-c3012e?style=for-the-badge&labelColor=orange"><br>
  <img alt="Static Badge" src="https://img.shields.io/badge/postgreSql-202021?style=for-the-badge&labelColor=orange">
  <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-033431?style=for-the-badge&labelColor=orange">
  <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-f6e019?style=for-the-badge&labelColor=orange">
  <img alt="Static Badge" src="https://img.shields.io/badge/docker-096dd6?style=for-the-badge&labelColor=orange">
  <img alt="Static Badge" src="https://img.shields.io/badge/bash-3e4648?style=for-the-badge&labelColor=orange">
- <img alt="Static Badge" src="https://img.shields.io/badge/golang-blue?style=for-the-badge&labelColor=orange">
- <img alt="Static Badge" src="https://img.shields.io/badge/python-f6e019?style=for-the-badge&labelColor=orange">
 </div>
  
