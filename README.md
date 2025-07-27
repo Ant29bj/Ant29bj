@@ -2,10 +2,7 @@
 I'm Antonio! a **Software Engineer student** looking for opportunity as a **Full Stack Developer**, looking to solve **real-world problems** 🌎 building tech solutions 💻. 
 
 <h2>⚡🙋‍♂️About me:</h2>
- 👨‍🎓 I'm currently taking the last semester of my degree on software engineer<br>
- 📈 I've a year of experience working as a software engineer<br>
  👨‍💼 Always open to job opportunities<br>
- 💡 Currently learning flutter
 
 <h2>How to reach me :</h2>
 <div>
