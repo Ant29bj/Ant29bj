@@ -1,8 +1,7 @@
 # Hey there! :wave::smiley:
-I'm Antonio! a **Software Engineer student** looking for opportunity as a **Full Stack Developer**, looking to solve **real-world problems** 🌎 building tech solutions 💻. 
+I'm Antonio! a **Software Engineer ** looking for opportunity as a **Full Stack Developer**, looking to solve **real-world problems** 🌎 building tech solutions 💻. 
 
 <h2>⚡🙋‍♂️About me:</h2>
- 👨‍💼 Always open to job opportunities<br>
 
 <h2>How to reach me :</h2>
 <div>
